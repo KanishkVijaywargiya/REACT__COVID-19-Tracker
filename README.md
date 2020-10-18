@@ -1,6 +1,8 @@
 ### Live link to check the project !!!
 ### https://covid-19-tracker-82570.web.app/
 
+### https://p73.f4.n0.cdn.getcloudapp.com/items/JrugDKG1/covid-tracker.gif?v=94ddcedd3e04ef62139c9b43af4ad936
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
